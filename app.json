@@ -2,7 +2,7 @@
   "expo": {
     "name": "Leader Consult",
     "slug": "lcQuerycode",
-    "version": "1.0.0",
+    "version": "5.8.31",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
